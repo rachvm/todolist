@@ -1,6 +1,3 @@
-# todolist
-Creating a fullstack application around to do lists
-
 Plan
 
 1. Before starting to plan research creating a full stack project with react
